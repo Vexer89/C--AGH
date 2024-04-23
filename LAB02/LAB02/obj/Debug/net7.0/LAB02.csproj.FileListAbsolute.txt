@@ -1,0 +1,14 @@
+C:\Users\krzys\RiderProjects\LAB02\LAB02\bin\Debug\net7.0\LAB02.exe
+C:\Users\krzys\RiderProjects\LAB02\LAB02\bin\Debug\net7.0\LAB02.deps.json
+C:\Users\krzys\RiderProjects\LAB02\LAB02\bin\Debug\net7.0\LAB02.runtimeconfig.json
+C:\Users\krzys\RiderProjects\LAB02\LAB02\bin\Debug\net7.0\LAB02.dll
+C:\Users\krzys\RiderProjects\LAB02\LAB02\bin\Debug\net7.0\LAB02.pdb
+C:\Users\krzys\RiderProjects\LAB02\LAB02\obj\Debug\net7.0\LAB02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krzys\RiderProjects\LAB02\LAB02\obj\Debug\net7.0\LAB02.AssemblyInfoInputs.cache
+C:\Users\krzys\RiderProjects\LAB02\LAB02\obj\Debug\net7.0\LAB02.AssemblyInfo.cs
+C:\Users\krzys\RiderProjects\LAB02\LAB02\obj\Debug\net7.0\LAB02.csproj.CoreCompileInputs.cache
+C:\Users\krzys\RiderProjects\LAB02\LAB02\obj\Debug\net7.0\LAB02.dll
+C:\Users\krzys\RiderProjects\LAB02\LAB02\obj\Debug\net7.0\refint\LAB02.dll
+C:\Users\krzys\RiderProjects\LAB02\LAB02\obj\Debug\net7.0\LAB02.pdb
+C:\Users\krzys\RiderProjects\LAB02\LAB02\obj\Debug\net7.0\LAB02.genruntimeconfig.cache
+C:\Users\krzys\RiderProjects\LAB02\LAB02\obj\Debug\net7.0\ref\LAB02.dll
