@@ -1,0 +1,14 @@
+C:\Users\krzys\RiderProjects\LAB05\LAB05\bin\Debug\net7.0\LAB05.exe
+C:\Users\krzys\RiderProjects\LAB05\LAB05\bin\Debug\net7.0\LAB05.deps.json
+C:\Users\krzys\RiderProjects\LAB05\LAB05\bin\Debug\net7.0\LAB05.runtimeconfig.json
+C:\Users\krzys\RiderProjects\LAB05\LAB05\bin\Debug\net7.0\LAB05.dll
+C:\Users\krzys\RiderProjects\LAB05\LAB05\bin\Debug\net7.0\LAB05.pdb
+C:\Users\krzys\RiderProjects\LAB05\LAB05\obj\Debug\net7.0\LAB05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krzys\RiderProjects\LAB05\LAB05\obj\Debug\net7.0\LAB05.AssemblyInfoInputs.cache
+C:\Users\krzys\RiderProjects\LAB05\LAB05\obj\Debug\net7.0\LAB05.AssemblyInfo.cs
+C:\Users\krzys\RiderProjects\LAB05\LAB05\obj\Debug\net7.0\LAB05.csproj.CoreCompileInputs.cache
+C:\Users\krzys\RiderProjects\LAB05\LAB05\obj\Debug\net7.0\LAB05.dll
+C:\Users\krzys\RiderProjects\LAB05\LAB05\obj\Debug\net7.0\refint\LAB05.dll
+C:\Users\krzys\RiderProjects\LAB05\LAB05\obj\Debug\net7.0\LAB05.pdb
+C:\Users\krzys\RiderProjects\LAB05\LAB05\obj\Debug\net7.0\LAB05.genruntimeconfig.cache
+C:\Users\krzys\RiderProjects\LAB05\LAB05\obj\Debug\net7.0\ref\LAB05.dll
