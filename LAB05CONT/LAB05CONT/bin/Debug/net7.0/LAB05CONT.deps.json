@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LAB05CONT/1.0.0": {
+        "runtime": {
+          "LAB05CONT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAB05CONT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

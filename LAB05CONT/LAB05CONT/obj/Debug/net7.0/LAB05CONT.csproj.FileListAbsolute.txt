@@ -1,0 +1,14 @@
+C:\Users\krzys\RiderProjects\LAB05CONT\LAB05CONT\obj\Debug\net7.0\LAB05CONT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krzys\RiderProjects\LAB05CONT\LAB05CONT\obj\Debug\net7.0\LAB05CONT.AssemblyInfoInputs.cache
+C:\Users\krzys\RiderProjects\LAB05CONT\LAB05CONT\obj\Debug\net7.0\LAB05CONT.AssemblyInfo.cs
+C:\Users\krzys\RiderProjects\LAB05CONT\LAB05CONT\obj\Debug\net7.0\LAB05CONT.csproj.CoreCompileInputs.cache
+C:\Users\krzys\RiderProjects\LAB05CONT\LAB05CONT\bin\Debug\net7.0\LAB05CONT.exe
+C:\Users\krzys\RiderProjects\LAB05CONT\LAB05CONT\bin\Debug\net7.0\LAB05CONT.deps.json
+C:\Users\krzys\RiderProjects\LAB05CONT\LAB05CONT\bin\Debug\net7.0\LAB05CONT.runtimeconfig.json
+C:\Users\krzys\RiderProjects\LAB05CONT\LAB05CONT\bin\Debug\net7.0\LAB05CONT.dll
+C:\Users\krzys\RiderProjects\LAB05CONT\LAB05CONT\bin\Debug\net7.0\LAB05CONT.pdb
+C:\Users\krzys\RiderProjects\LAB05CONT\LAB05CONT\obj\Debug\net7.0\LAB05CONT.dll
+C:\Users\krzys\RiderProjects\LAB05CONT\LAB05CONT\obj\Debug\net7.0\refint\LAB05CONT.dll
+C:\Users\krzys\RiderProjects\LAB05CONT\LAB05CONT\obj\Debug\net7.0\LAB05CONT.pdb
+C:\Users\krzys\RiderProjects\LAB05CONT\LAB05CONT\obj\Debug\net7.0\LAB05CONT.genruntimeconfig.cache
+C:\Users\krzys\RiderProjects\LAB05CONT\LAB05CONT\obj\Debug\net7.0\ref\LAB05CONT.dll
